@@ -1,0 +1,23 @@
+.box{
+    text-align: center;
+}
+h2{
+    color:green;
+}
+.btn{
+    color: green;
+}
+.list{
+    width:100%;
+    
+    margin-top: 20px;
+}
+
+th{
+    text-align: center;
+    
+}
+ table,th,td {
+     border : 1px solid black;
+     /*border-collapse: collapse;*/
+ }
